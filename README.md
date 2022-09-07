@@ -7,9 +7,9 @@ The intention of this exercise is to check your participation. You would need so
 Accept the assignment in a language of your choice. This will create a repository for you.
 Look for `README.md` in your repository for further information.
 
-[C](https://classroom.github.com/a/MFMcN-WY) |
-[C++](https://classroom.github.com/a/rAvTyOeG) |
-[C#](https://classroom.github.com/a/LZH4Sf9o) |
-[Java](https://classroom.github.com/a/DdDdQNON) |
-[Python](https://classroom.github.com/a/5lRABuek) |
-[JavaScript](https://classroom.github.com/a/Gm3IV_SG)
+[C](https://classroom.github.com/a/EPkIZH2U) |
+[C++](https://classroom.github.com/a/CoPwIZWm) |
+[C#](https://classroom.github.com/a/dJPmlVUx) |
+[Java](https://classroom.github.com/a/XpOL7tdK) |
+[Python](https://classroom.github.com/a/eXeVWaDa) |
+[JavaScript](https://classroom.github.com/a/_2_uGFIU)
