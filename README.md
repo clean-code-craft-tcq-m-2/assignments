@@ -11,5 +11,5 @@ Look for `README.md` in your repository for further information.
 [C++](https://classroom.github.com/a/CoPwIZWm) |
 [C#](https://classroom.github.com/a/dJPmlVUx) |
 [Java](https://classroom.github.com/a/XpOL7tdK) |
-[Python](https://classroom.github.com/a/eXeVWaDa) |
-[JavaScript](https://classroom.github.com/a/_2_uGFIU)
+[Python](https://classroom.github.com/a/_2_uGFIU) |
+[JavaScript](https://classroom.github.com/a/eXeVWaDa)
