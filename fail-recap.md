@@ -1,5 +1,7 @@
 # Strong tests - recap
 
+[See here for a sample implementation of failing tests in C](https://github.com/clean-code-craft-tcq-m-2/test-failer-in-c-sudeeprp)
+
 ## T-shirt sizes
 
 Which is right? 
