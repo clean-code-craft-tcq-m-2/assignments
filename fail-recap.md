@@ -3,6 +3,7 @@
 ## T-shirt sizes
 
 Which is right? 
+
 `assert(size(38) == 'S');` or `assert(size(38) == 'M');`
 
 - Reason out. Confirm assumptions with stakeholders
