@@ -47,3 +47,11 @@ int IsWithinLimit(float paramValue, const ParamAttributes * param)
     }
 }
 ```
+
+## Recap of extensions
+
+[Isolating messages in a file](https://github.com/clean-code-craft-tcq-m-2/simple-monitor-in-cpp-FernandoRiv/blob/10a731b4bcb936e92194664536e3dd8c04b13898/checkerConstants.cpp): 
+Consider manual mistakes - like missing to update a language string in one of the maps. How can you minimize the amount of testing required?
+
+[Closed implementation of range-checking](https://github.com/clean-code-craft-tcq-m-2/simple-monitor-in-cs-LuisEAG80/blob/b3cf57f04c141d84c2e593ca59a18f47e61fe644/batteryChecker.cs):
+Notice `IsInRange` and `outOfRangeMessage`. They are open to work with any parameter, while being closed with well-defined functionality that's unlikely to change often.
