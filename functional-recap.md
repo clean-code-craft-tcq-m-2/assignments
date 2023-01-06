@@ -11,14 +11,19 @@ This will cause code to get 'modified' when the customer asks to 'add' the abili
 
 ## Adding parameters
 
-Function that can check any of the parameters
+Function that can check any of the parameters.
+See how it 'diverges' from the semantics of the domain - would you use these words to explain the functionality?
 
 ```cpp
 template <typename paramtype, class Charge_Discharge_SOC_Temp>
 bool ChargeTemp_SOC_CRate_Check(paramtype temp_SOC, Charge_Discharge_SOC_Temp ClsName)
 ```
 
-Separation of consolidation
+---
+
+Separation of consolidation - adding parameters makes it longer, more complex.
+Could we accept an array instead, and check using a loop or functions like `every` and `all`?
+If we did that, would it come closer to the way we would explain the functionality?
 
 ```cpp
 inline bool Combined_Check(bool chargetemp, bool SOC, bool Charge_Rate){
@@ -27,10 +32,9 @@ inline bool Combined_Check(bool chargetemp, bool SOC, bool Charge_Rate){
 }
 ```
 
-[One function for all parameters](https://github.com/clean-code-craft-tcq-4/simple-monitor-in-py-harinisuresh2701/blob/14b581d9296479a527474abe40e8bb4c5e1d95d8/check_limits.py)
-
-
 ## Does the name match all of its intent
+
+Note the use of specific definitions like `NOT_IN_LIMIT` and `IN_LIMIT`, as opposed to `false` and `true`
 
 ```c
 int IsWithinLimit(float paramValue, const ParamAttributes * param)
