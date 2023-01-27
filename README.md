@@ -23,7 +23,11 @@ Fri - session / recap + next
 
 ## Try It
 
-[Propose tests](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAY-7brxUNFVOWklBSFA2MERUVk5RNDdDRUNJT1dGSy4u) and try [a popular exercise](https://osherove.com/tdd-kata-1)
+[TDD first step](tdd-current-ranges.md)
+
+[Propose tests](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAY-7brxUNFVOWklBSFA2MERUVk5RNDdDRUNJT1dGSy4u)
+[recap](propose-tests-recap.md)
+and try [a popular exercise](https://osherove.com/tdd-kata-1)
 
 Assessment: [Divide and Cover](type-wise-inference.md)
 
