@@ -53,3 +53,15 @@ public void checkRangesMoreDataFailed() {
     assertFalse(result.get("1 - 1") == 2);
 }
 ```
+
+---
+
+Limited functionality completed with tests
+
+```c
+	int testInputs[9] = {2,5,4,8,12,6,7,10,13};
+	int testInputSize = sizeof(testInputs)/sizeof(testInputs[0]);
+
+	assert(CountReadingsInRange(testInputs, testInputSize, 2, 2) == 1);
+	assert(CountReadingsInRange(testInputs, testInputSize, 4, 8) == 5);
+```
