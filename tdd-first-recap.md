@@ -4,6 +4,8 @@
 
 [Data-driven tests](https://github.com/clean-code-craft-tcq-7/tdd-buckets-omprakashs855/blob/f63148ecf5b817958e2b956a79b2234b9a4c9edf/inc/test_case.json)
 
+[Tests expressing stages in the chain](https://github.com/clean-code-craft-tcq-m-2/tdd-buckets-RicardoGuD/blob/69ff6e01af01fa2ab25117710b9c9196de17a804/test_TDDCurrentRanges.cpp)
+
 ---
 
 Call a function by its purpose, not by its code
